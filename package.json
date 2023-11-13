@@ -2,17 +2,26 @@
   "name": "typeout-url",
   "version": "1.0.1",
   "description": "Type your url from code ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "pr0h0 <abdulah.proho@edu.fit.ba> (https://pr0h0.me)",
   "keywords": [
     "url",
     "typeout",
     "http",
-    "request",
-    "proxy"
+    "proxy",
+    "request"
   ],
-  "author": "pr0h0",
-  "license": "MIT"
+  "private": false,
+  "license": "MIT",
+  "funding": {
+    "type": "paypal",
+    "url": "https://paypal.me/pr0h0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/pr0h0/typeout-url"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
